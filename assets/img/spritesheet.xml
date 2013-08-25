@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0b483d830fc3df4c8ecceb6af8a47712:1/1$ -->
+<TextureAtlas imagePath="spritesheet.png">
+    <SubTexture name="background" x="2" y="2" width="800" height="480"/>
+    <SubTexture name="enemy_bullet" x="804" y="2" width="4" height="8"/>
+    <SubTexture name="enemy_bullet2" x="810" y="2" width="4" height="6"/>
+    <SubTexture name="enemy_bullet3" x="816" y="2" width="5" height="6"/>
+    <SubTexture name="enemy_ship" x="823" y="2" width="38" height="38"/>
+    <SubTexture name="enemy_ship2" x="863" y="2" width="114" height="45"/>
+    <SubTexture name="enemy_ship3" x="2" y="484" width="54" height="38"/>
+    <SubTexture name="particle" x="58" y="484" width="32" height="32"/>
+    <SubTexture name="player_bullet" x="92" y="484" width="3" height="6"/>
+    <SubTexture name="player_ship" x="97" y="484" width="36" height="37"/>
+    <SubTexture name="progressbar" x="135" y="484" width="192" height="14"/>
+    <SubTexture name="progressbar_fill" x="329" y="484" width="191" height="13"/>
+</TextureAtlas>
